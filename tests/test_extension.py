@@ -1,5 +1,5 @@
-from mopidy_relays import Extension
-from mopidy_relays import frontend as frontend_lib
+from mopidy_seeedrelays import Extension
+from mopidy_seeedrelays import frontend as frontend_lib
 
 
 def test_get_default_config():
