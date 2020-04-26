@@ -42,7 +42,7 @@ Mopidy-SeeedRelays to your Mopidy configuration file::
     [relays]
     i2c = 1            # (default) i2c bus with board connected
     address = 0x20     # (default) board address
-    relay=1            # (required) number of a relay you want to drive
+    relay=1            # (required) relay number to control
 
 For board settings, please refer to http://wiki.seeedstudio.com/Raspberry_Pi_Relay_Board_v1.0/
 
